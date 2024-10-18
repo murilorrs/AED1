@@ -1,0 +1,4 @@
+Silva Joao 3000.00
+Souza Maria 4000.00
+Costa Ana 3500.00
+Lima Pedro 2800.00

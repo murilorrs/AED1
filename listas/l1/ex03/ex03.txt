@@ -1,0 +1,6 @@
+a. O vetor p contém 100 estruturas person, cada uma com 141 bytes. Então, o endereço de p[10] será: Endereco de p+10×141=100+1410=1510
+
+b. 100+200×141=100+28200=28300 Dentro de p[200], o campo name.midinit está na posição logo após name.first[10], que ocupa 10 bytes, ou seja: 28300+10=28310
+
+c. Para p[20], o deslocamento é: 100+20×141=100+2820=2920. Dentro de p[20], o campo income está após: name: 31 bytes birthday: 8 bytes parentes: 62 bytes Portanto, o endereço de income é:2920+31+8+62=2920+101=3021
+

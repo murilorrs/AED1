@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.json": "jsonc",
+    "complexo.h": "c",
+    "ex06.h": "c",
+    "ex01.h": "c",
+    "ex10.h": "c",
+    "ex14.h": "c"
+  }
+}
