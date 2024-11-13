@@ -1,0 +1,5 @@
+Para que uma sequência de Enfileira e Desenfileira em uma fila vazia não cause underflow,
+basta garantir que o número de Desenfileira não seja maior que o de Enfileira. Assim,
+sempre que for desenfileirar, haverá um item para remover. Já para manter uma fila não vazia
+do mesmo jeito, o número de Enfileira tem que ser igual ao número de Desenfileira no final.
+Assim, a fila fica inalterada.
